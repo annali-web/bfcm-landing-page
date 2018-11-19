@@ -595,6 +595,10 @@ footer p {
 
 
 @media screen and (max-width: 650px){
+	/** Header **/
+	header .banner-all-items h1 {
+	font-size: 4.5em;}
+
 	/**  LOGO - Navbar Brand **/
 	header .navbar-brand, header .inbody .navbar-brand {
 		margin: 0;
